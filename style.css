@@ -1,0 +1,12 @@
+body {
+    background-color: #92e7f4;
+    color: black;
+}
+
+#btnActualizar {
+    display: none;
+}
+
+#buscador {
+    text-align: center;
+}
